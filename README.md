@@ -3,3 +3,4 @@ So hello, this is just some crappy code to fork of if you wish don't claim its y
 It's not finished yet.
 This is a startup for making yourself a bow boosting plugin
 This is still going to be updated regularly. 
+Null Checks going to be added next
