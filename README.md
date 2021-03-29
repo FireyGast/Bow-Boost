@@ -1,6 +1,3 @@
 # Bow-Boost
-So hello, this is just some crappy code to fork of if you wish don't claim its yours, I did have some help from a guy on this so I don't claim I made all of this code. 
-It's not finished yet.
-This is a startup for making yourself a bow boosting plugin
-This is still going to be updated regularly. 
-Null Checks going to be added next
+idk what im doing with my life this is from ages ago
+its meant to be something for bow boosting that i put 0% effort into hf skidding or forking :D
